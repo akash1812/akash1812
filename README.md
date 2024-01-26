@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/akash_gowdaa" target="blank"><img src="https://img.shields.io/twitter/follow/akash_gowdaa?logo=twitter&style=for-the-badge" alt="akash_gowdaa" /></a> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Open source**
 
 - 🤝 I’m looking for help with **Open source**
-
-- 💬 Ask me about **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
