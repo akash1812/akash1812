@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate mobile app developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/akash_gowdaa" target="blank"><img src="https://img.shields.io/twitter/follow/akash_gowdaa?logo=twitter&style=for-the-badge" alt="akash_gowdaa" /></a> </p>
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Mobile app development**
 
-- 🌱 I’m currently learning **Js**
+- 🌱 I’m currently learning **React native**
 
-- 👯 I’m looking to collaborate on **Web development**
+- 👯 I’m looking to collaborate on **Mobile app development**
 
 - 🤝 I’m looking for help with **Open source**
 
